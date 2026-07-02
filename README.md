@@ -106,7 +106,8 @@ intersystem-noise-coupling/
 | σ_cardiac range | 0.13 – 0.80 | High individual variability in cardiac noise |
 | σ_locomotor range | 0.31 – 0.39 | Locomotor noise is consistent across people |
 
-In healthy people, cardiac and locomotor systems are largely decoupled. The tiny coupling that exists is negative: movement slightly quiets cardiac variability, consistent with vagal withdrawal during physical activity. One subject shows anomalously positive coupling and is a consistent outlier across all metrics.
+In healthy people, cardiac and locomotor systems are largely decoupled. 
+The tiny coupling that exists is negative: movement slightly quiets cardiac variability, consistent with vagal withdrawal during physical activity. One subject shows anomalously positive coupling and is a consistent outlier across all metrics.
 
 
 ## Requirements
