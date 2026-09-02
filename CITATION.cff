@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this framework or its results, please cite this repository."
+title: "Intersystem Noise Coupling: A Stochastic Framework for Cross-Organ Physiological Synchronization"
+type: software
+authors:
+  - family-names: "Gachema"
+    given-names: "Caroline Wambui."
+date-released: 2026-07-23
+url: "https://github.com/CarolGachema/Intersystem-Noise-Coupling"
+license: MIT
